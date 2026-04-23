@@ -1,8 +1,10 @@
-[
-  { 
-    "name": "Message Sender",
-    "desc": "Portable version",
-    "icon": "assets/apps/ms.png",
-    "url": "https://github.com/odesseu/odesseu.github.io/releases/download/v1.4.1/portable.EVB.exe"
-  }
-]
+{
+  "apps": [
+    { 
+      "name": "Message Sender",
+      "desc": "Portable version",
+      "icon": "assets/apps/ms.png",
+      "url": "https://github.com/odesseu/odesseu.github.io/releases/download/v1.4.1/portable.EVB.exe"
+    }
+  ]
+}
