@@ -1,9 +1,23 @@
-[
-  {
-    "name": "Message Sender",
-    "desc": "Just tool for discord",
-    "icon": "assets/apps/ms.png",
-    "url": "https://github.com/odesseu/odesseu.github.io/releases/download/v1.4.0/src.7z",
-    "exe": "src.exe"
-  }
-]
+{
+  "apps": [
+    { 
+      "name": "Message Sender",
+      "desc": "Just tool for discord",
+      "icon": "assets/apps/ms.png",
+      "files": [
+        { 
+          "url": "https://example.com/files/message_sender.exe", 
+          "path": "message_sender.exe" 
+        },
+        { 
+          "url": "https://example.com/files/config_template.json", 
+          "path": "data/config.json" 
+        },
+        { 
+          "url": "https://example.com/files/library.dll", 
+          "path": "bin/library.dll" 
+        }
+      ]
+    }
+  ]
+}
