@@ -2,7 +2,7 @@
   {
     "name": "Message Sender",
     "desc": "Just tool for discord",
-    "icon": "icons/ms.png",
+    "icon": "assets/apps/ms.png",
     "url": "https://github.com/odesseu/odesseu.github.io/releases/download/v1.4.0/src.7z",
     "exe": "src.exe"
   }
