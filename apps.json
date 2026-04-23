@@ -3,11 +3,6 @@
     "name": "Message Sender",
     "desc": "One-file portable version",
     "icon": "assets/apps/ms.png",
-    "files": [
-      { 
-        "url": "https://github.com/odesseu/odesseu.github.io/releases/download/v1.4.1/portable.EVB.exe", 
-        "path": "MessageSender.exe" 
-      }
-    ]
+    "url": "https://github.com/odesseu/odesseu.github.io/releases/download/v1.4.1/portable.EVB.exe"
   }
 ]
